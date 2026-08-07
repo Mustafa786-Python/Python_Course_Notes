@@ -1,0 +1,12 @@
+sen = "    my name is Mustafa ALi Danish.    "
+print(sen.capitalize())
+print(sen.upper())
+print(sen.lower())
+print(sen.title().strip())
+print(sen.strip())
+print(sen.replace("Mustafa", "Mujtaba"))
+print(sen.find("Mustafa"))
+print(sen.split("Mustafa"))
+print(sen.count("a"))
+print(sen.endswith(" "))
+print(sen.startswith(" "))

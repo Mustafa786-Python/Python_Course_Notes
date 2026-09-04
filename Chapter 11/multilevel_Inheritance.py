@@ -13,7 +13,7 @@ class Manager(Programmer):
 
 
 o = Employee()
-print(o.a)
+# print(o.a)
 # print(o.b) # Gives Erro: Because Employee class does not contain b
 
 o = Manager()
